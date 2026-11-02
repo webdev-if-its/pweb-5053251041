@@ -1,0 +1,13 @@
+{
+  "name": "Taman Baca RW 04",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [ 
+    {
+      "src": "flaticon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
